@@ -1,0 +1,6 @@
+# Paste into GitHub → About when creating the public repo
+
+Name:        cheap-instagram-profile-scraper
+Description: Cheap Instagram profile scraper — username in, JSON out via Socify (trysocify.com)
+Website:     https://trysocify.com/compare/best-instagram-profile-scrapers-2026
+Topics:      instagram-profile-scraper, cheap-instagram-profile-scraper, instagram-scraper, instagram-api, instagram-profile-api, instagram-scraper-python, instagram-scraper-github, social-media-api, python, socify
